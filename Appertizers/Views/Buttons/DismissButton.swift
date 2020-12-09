@@ -1,10 +1,3 @@
-//
-//  DismissButton.swift
-//  Appertizers
-//
-//  Created by Josip Glasovac on 20/11/2020.
-//
-
 import SwiftUI
 
 struct DismissButton: View {

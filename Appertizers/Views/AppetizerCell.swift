@@ -1,10 +1,3 @@
-//
-//  AppetizerCell.swift
-//  Appertizers
-//
-//  Created by Josip Glasovac on 19/11/2020.
-//
-
 import SwiftUI
 
 struct AppetizerCell: View {
